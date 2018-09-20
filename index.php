@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
 <head>
 <meta charset="UTF-8">
-<title>FreightBook</title>
+<title>FreightBook V1.0</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/upperair/font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="w3.css">
